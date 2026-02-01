@@ -1,0 +1,5 @@
+scenario,SPY_shock,TLT_shock,GLD_shock,QQQ_shock,EEM_shock,HYG_shock
+Equity -10% / Rates +50bp / Credit -3%,-0.1,-0.03,0.02,-0.12,-0.14,-0.03
+Stagflation: Equity -7% / Rates -100bp / Gold +8%,-0.07,0.06,0.08,-0.09,-0.1,-0.02
+Risk-on: Equity +6% / Credit +2% / Rates -30bp,0.06,0.02,-0.01,0.07,0.08,0.02
+Flight-to-quality: Equity -12% / Rates -150bp / Gold +10%,-0.12,0.1,0.1,-0.15,-0.18,-0.05

@@ -1,0 +1,8 @@
+asset,quantity,price_source,asset_class,currency
+SPY,120,prices.csv,Equity,USD
+TLT,300,prices.csv,Rates,USD
+GLD,80,prices.csv,Commodity,USD
+QQQ,60,prices.csv,Equity,USD
+EEM,500,prices.csv,Equity_EM,USD
+HYG,200,prices.csv,Credit,USD
+CASH_USD,150000,,Cash,USD
